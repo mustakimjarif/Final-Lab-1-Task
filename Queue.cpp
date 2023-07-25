@@ -78,6 +78,5 @@ int main()
     cout << frontElement() << endl;
     cout << QueueSize() << endl;
 
-    delete[] a; // Free the dynamically allocated memory
     return 0;
 }
